@@ -1,6 +1,6 @@
-# Portfolio Yoshio Faris Makarim
+# Portofolio Yoshio Faris Makarim
 
-Website portfolio pribadi saya yang dibangun menggunakan HTML dan CSS, di-host menggunakan GitHub Pages.
+Website portofolio pribadi saya yang dibangun menggunakan HTML dan CSS, di-host menggunakan GitHub Pages.
 
 ## Fitur
 * Desain responsif
