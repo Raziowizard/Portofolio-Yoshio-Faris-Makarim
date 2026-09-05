@@ -7,7 +7,7 @@ Website portofolio pribadi saya yang dibangun menggunakan HTML dan CSS, di-host 
 * Tautan unduh CV langsung
 * Galeri project
 
-# 🛠️ Portofolio Pribadi Yoshio Faris — Halaman Pemeliharaan
+# 🛠️ Website Portofolio Personal Yoshio Faris Makarim — Halaman Pemeliharaan
 
 ![Status](https://img.shields.io/badge/Status-Under_Maintenance-orange?style=for-the-badge)
 ![ETA](https://img.shields.io/badge/Perkiraan_Selesai-05_September_2026-blue?style=for-the-badge)
