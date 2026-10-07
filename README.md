@@ -10,7 +10,7 @@ Website portofolio pribadi saya yang dibangun menggunakan HTML dan CSS, di-host 
 # 🛠️ Website Portofolio Personal Yoshio Faris Makarim — Halaman Pemeliharaan
 
 ![Status](https://img.shields.io/badge/Status-Under_Maintenance-orange?style=for-the-badge)
-![ETA](https://img.shields.io/badge/Perkiraan_Selesai-29_September_2026-blue?style=for-the-badge)
+![ETA](https://img.shields.io/badge/Perkiraan_Selesai-07_October_2026-blue?style=for-the-badge)
 
 ---
 
@@ -19,7 +19,7 @@ Website portofolio pribadi saya yang dibangun menggunakan HTML dan CSS, di-host 
 Website portofolio saya saat ini sedang dalam masa pemeliharaan berkala (*Maintenance Mode*). Saya sedang melakukan beberapa pembaruan sistem dan penyegaran tampilan agar situs dapat menyajikan informasi serta karya terbaru secara lebih optimal.
 
 ### ⏱️ Perkiraan Waktu Selesai
-* **Estimasi:** 29 September 2026 00.00 WIB
+* **Estimasi:** 07 October 2026 15.00 WIB
 
 ### 🔄 Ringkasan Pembaruan
 * **Peningkatan Performa:** Optimasi kecepatan muat halaman dan penyederhanaan skrip internal.
